@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZXkd85Oi8pL14r7S+CGOgHemnREA2wYh4AAD5hSSm3A=",
+  "Source": "CurrencyRates",
+  "BasePath": "_content/CurrencyRates",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

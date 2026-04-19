@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFCC28D-CAE8-49B7-8580-70B6AF1731D7}|CurrencyRates\\CurrencyRates.csproj|c:\\users\\user1\\desktop\\currencyratesproject\\backend\\currencyrates\\currencyrates\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFCC28D-CAE8-49B7-8580-70B6AF1731D7}|CurrencyRates\\CurrencyRates.csproj|solutionrelative:currencyrates\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFCC28D-CAE8-49B7-8580-70B6AF1731D7}|CurrencyRates\\CurrencyRates.csproj|c:\\users\\user1\\desktop\\currencyratesproject\\backend\\currencyrates\\currencyrates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFCC28D-CAE8-49B7-8580-70B6AF1731D7}|CurrencyRates\\CurrencyRates.csproj|solutionrelative:currencyrates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFCC28D-CAE8-49B7-8580-70B6AF1731D7}|CurrencyRates\\CurrencyRates.csproj|c:\\users\\user1\\desktop\\currencyratesproject\\backend\\currencyrates\\currencyrates\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFCC28D-CAE8-49B7-8580-70B6AF1731D7}|CurrencyRates\\CurrencyRates.csproj|solutionrelative:currencyrates\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFCC28D-CAE8-49B7-8580-70B6AF1731D7}|CurrencyRates\\CurrencyRates.csproj|c:\\users\\user1\\desktop\\currencyratesproject\\backend\\currencyrates\\currencyrates\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFCC28D-CAE8-49B7-8580-70B6AF1731D7}|CurrencyRates\\CurrencyRates.csproj|solutionrelative:currencyrates\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFCC28D-CAE8-49B7-8580-70B6AF1731D7}|CurrencyRates\\CurrencyRates.csproj|c:\\users\\user1\\desktop\\currencyratesproject\\backend\\currencyrates\\currencyrates\\currencyrates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CFCC28D-CAE8-49B7-8580-70B6AF1731D7}|CurrencyRates\\CurrencyRates.csproj|solutionrelative:currencyrates\\currencyrates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFCC28D-CAE8-49B7-8580-70B6AF1731D7}|CurrencyRates\\CurrencyRates.csproj|c:\\users\\user1\\desktop\\currencyratesproject\\backend\\currencyrates\\currencyrates\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFCC28D-CAE8-49B7-8580-70B6AF1731D7}|CurrencyRates\\CurrencyRates.csproj|solutionrelative:currencyrates\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFCC28D-CAE8-49B7-8580-70B6AF1731D7}|CurrencyRates\\CurrencyRates.csproj|c:\\users\\user1\\desktop\\currencyratesproject\\backend\\currencyrates\\currencyrates\\models\\currencyrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFCC28D-CAE8-49B7-8580-70B6AF1731D7}|CurrencyRates\\CurrencyRates.csproj|solutionrelative:currencyrates\\models\\currencyrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFCC28D-CAE8-49B7-8580-70B6AF1731D7}|CurrencyRates\\CurrencyRates.csproj|c:\\users\\user1\\desktop\\currencyratesproject\\backend\\currencyrates\\currencyrates\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CFCC28D-CAE8-49B7-8580-70B6AF1731D7}|CurrencyRates\\CurrencyRates.csproj|solutionrelative:currencyrates\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\CurrencyRates\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CurrencyRates\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\CurrencyRates\\WeatherForecast.cs",
+              "RelativeToolTip": "CurrencyRates\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:13:56.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\CurrencyRates\\Program.cs",
+              "RelativeDocumentMoniker": "CurrencyRates\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\CurrencyRates\\Program.cs",
+              "RelativeToolTip": "CurrencyRates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:21:37.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CurrencyRate.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\CurrencyRates\\Models\\CurrencyRate.cs",
+              "RelativeDocumentMoniker": "CurrencyRates\\Models\\CurrencyRate.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\CurrencyRates\\Models\\CurrencyRate.cs",
+              "RelativeToolTip": "CurrencyRates\\Models\\CurrencyRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:21:05.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\CurrencyRates\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CurrencyRates\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\CurrencyRates\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CurrencyRates\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:19:34.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrencyRates",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\CurrencyRates\\CurrencyRates.csproj",
+              "RelativeDocumentMoniker": "CurrencyRates\\CurrencyRates.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\CurrencyRates\\CurrencyRates.csproj",
+              "RelativeToolTip": "CurrencyRates\\CurrencyRates.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-19T15:14:23.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\CurrencyRates\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "CurrencyRates\\Controllers\\CurrencyController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\CurrencyRates\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "CurrencyRates\\Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:04:18.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\CurrencyRates\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CurrencyRates\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\CurrencyRates\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CurrencyRates\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:58:05.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\CurrencyRates\\appsettings.json",
+              "RelativeDocumentMoniker": "CurrencyRates\\appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\CurrencyRatesProject\\backend\\CurrencyRates\\CurrencyRates\\appsettings.json",
+              "RelativeToolTip": "CurrencyRates\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T15:28:43.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
