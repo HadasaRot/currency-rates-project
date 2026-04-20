@@ -1,7 +1,16 @@
+# Node
+node_modules/
+
+# Angular
+dist/
+.angular/
+
+# .NET
+backend/bin/
+backend/obj/
+
 # Visual Studio
 .vs/
-bin/
-obj/
 
 # User files
 *.user
@@ -9,3 +18,11 @@ obj/
 
 # Logs
 *.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
