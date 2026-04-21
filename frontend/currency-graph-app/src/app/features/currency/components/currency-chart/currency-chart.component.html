@@ -1,1 +1,33 @@
-<p>currency-chart works!</p>
+
+<h2>Currency Chart</h2>
+
+<h3 class="title">{{ selectedRange | titlecase }} View</h3>
+
+<div class="tabs">
+  <button (click)="loadWeek()" class="tab" [class.active]="selectedRange === 'week'">Week</button>
+  <button (click)="loadMonth()" class="tab" [class.active]="selectedRange === 'month'">Month</button>
+  <button (click)="loadHalfYear()" class="tab" [class.active]="selectedRange === 'half'">Half Year</button>
+  <button (click)="loadYear()" class="tab" [class.active]="selectedRange === 'year'">Year</button>
+</div>
+
+<div class="layout">
+
+  <div class="summary">
+    <div class="card" *ngFor="let s of summary" [style.border-top]="'2px solid ' + getColor(s.code)">
+      <h4>{{ s.code }}</h4>
+      <p class="price">{{ s.last | number:'1.2-2' }} ₪</p>
+      <p [class.up]="s.change > 0" [class.down]="s.change < 0" [class.neutral]="s.change === 0">
+        {{ s.change > 0 ? '▲' : s.change < 0 ? '▼' : '—' }}
+        {{ s.change | number:'1.2-2' }}
+      </p>
+      <p class="percent" [class.up]="s.percent > 0" [class.down]="s.percent < 0">
+        {{ s.percent > 0 ? '+' : '' }}{{ s.percent | number:'1.1-1' }}%
+      </p>
+    </div>
+  </div>
+
+  <div class="chart-container">
+    <canvas id="currencyChart"></canvas>
+  </div>
+
+</div>

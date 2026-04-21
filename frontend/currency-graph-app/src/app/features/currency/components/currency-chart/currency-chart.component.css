@@ -1,0 +1,133 @@
+:host {
+    display: block;
+    padding: 30px;
+    font-family: "Segoe UI", Arial, sans-serif;
+    background: #f4f6fb;
+    min-height: 100vh;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: -15px;
+    font-size: 30px;
+    font-weight: 700;
+    color: #1f2a44;
+}
+
+.title {
+    text-align: center;
+    color: #888;
+    font-weight: 400;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.tabs {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 25px;
+    background: white;
+    padding: 10px;
+    border-radius: 14px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tab {
+    flex: 1;
+    padding: 10px 14px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background: transparent;
+    font-weight: 600;
+    color: #555;
+    transition: 0.2s ease;
+}
+
+.tab:hover {
+    background: #eef3ff;
+}
+
+.tab.active {
+    background: #2f6fed;
+    color: white;
+    transform: scale(1.05);
+    box-shadow: 0 6px 15px rgba(47, 111, 237, 0.3);
+}
+
+.layout {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.summary {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5px;
+    min-width: 140px;
+}
+
+.card:hover {
+    transform: translateY(-3px);
+}
+
+.up {
+    color: #16a34a;
+}
+.down {
+    color: #dc2626;
+}
+.neutral {
+    color: #888;
+}
+
+.chart-container {
+    flex: 1;
+    background: white;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+canvas {
+    width: 100% !important;
+    height: 450px !important;
+}
+
+.card {
+    background: white;
+    padding: 6px 14px;
+    border-radius: 14px;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s;
+    border-top: 4px solid transparent;
+}
+
+.card h4 {
+    margin: 0 0 2px 0;
+    font-size: 15px;
+    font-weight: 700;
+    color: #1f2a44;
+}
+
+.price {
+    font-size: 14px;
+    font-weight: bold;
+    color: #1f2a44;
+    margin: 0 0 2px 0;
+}
+
+.percent {
+    font-size: 11px;
+    font-weight: 600;
+    margin: 0;
+}
