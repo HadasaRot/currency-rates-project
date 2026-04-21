@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using CurrencyRates.Data;
+using CurrencyRates.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,9 +12,22 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDbContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-var app = builder.Build();
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAngular", policy =>
+    {
+        policy.WithOrigins("http://localhost:4200")
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
 
-// Configure the HTTP request pipeline.
+builder.Services.AddHttpClient();
+builder.Services.AddScoped<CurrencyImportService>();
+builder.Services.AddHostedService<CurrencyRates.Jobs.DailyCurrencyJob>();
+builder.Services.AddScoped<CurrencyDataService>();
+var app = builder.Build();
+app.UseCors("AllowAngular");
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
